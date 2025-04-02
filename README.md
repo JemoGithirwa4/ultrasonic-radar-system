@@ -4,7 +4,8 @@
 This project demonstrates the use of a servo motor and an ultrasonic sensor with an Arduino. The servo motor rotates from 15 to 165 degrees and back, while the ultrasonic sensor measures the distance at each position.
 
 ## Video Demo  
-Watch the project in action: ![Arduino Servo & Ultrasonic Sensor Demo](adruino.mp4)
+Watch the project in action: [Demo Video on Google Drive](https://drive.google.com/file/d/1AbJ07L5LqTsaWs8NobULOagLe_9K4Cm3/view?usp=sharing)
+
 
 ## Components Used
 - Arduino Board (e.g., Arduino Uno)
